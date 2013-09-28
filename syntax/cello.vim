@@ -194,6 +194,7 @@ syn keyword     cOperator       stream
 syn keyword     cOperator       with
 syn keyword     cOperator       cast
 syn keyword     cOperator       map
+syn keyword     cOperator       delete
 
 syn keyword     cType           var
 syn keyword     cType           Array Bool Char Dictionary
