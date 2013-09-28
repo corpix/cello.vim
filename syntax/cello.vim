@@ -12,7 +12,7 @@ endif
 syn keyword     cStatement      goto break return continue asm
 syn keyword     cLabel          case default lambda
 syn keyword     cConditional    if else switch
-syn keyword     cRepeat         while for do foreach
+syn keyword     cRepeat         while for do foreach in
 
 syn keyword     cTodo           contained TODO FIXME XXX
 
