@@ -12,7 +12,7 @@ endif
 syn keyword     cStatement      goto break return continue asm
 syn keyword     cLabel          case default lambda
 syn keyword     cConditional    if else switch
-syn keyword     cRepeat         while for do foreach in
+syn keyword     cRepeat         while for do foreach in with
 
 syn keyword     cTodo           contained TODO FIXME XXX
 
@@ -191,7 +191,7 @@ syn keyword     cOperator       serialize
 syn keyword     cOperator       show
 syn keyword     cOperator       sort
 syn keyword     cOperator       stream
-syn keyword     cOperator       with
+"syn keyword     cOperator       with
 syn keyword     cOperator       cast
 syn keyword     cOperator       map
 syn keyword     cOperator       delete
